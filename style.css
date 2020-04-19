@@ -47,7 +47,7 @@ a:hover{
 }
 
 .container2{
-  background-color: rgba(50,50,200,0.5);
+  background-color: rgba(17, 114, 119, 0.3);
   margin: 20px auto 20px auto;
   padding: 20px;
   border-radius: 8px;
@@ -101,6 +101,16 @@ margin: 0 -31px;
   transform: rotate(45deg);
 }
 
+.add-content{
+font-size: 17px;
+font-weight: 400;
+}
+
+.add{
+  margin-left: -5px;
+  margin-right: 10px;
+}
+
 .edit{
   padding: 10px;
   border-radius:50%;
@@ -135,4 +145,16 @@ margin: 0 -31px;
 
 .imgpro{
     border-radius: 8px;
+}
+
+.number{
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+
+hr{
+  width: 20%;
+  border-style: dashed;
+  border-color: #03A9A1;
+  border-width: 3px 0 0 0;
 }
