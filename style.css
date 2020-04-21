@@ -45,14 +45,14 @@ a:hover{
 /* container */
 
 .container1{
-  background-color: rgba(128,128,128,0.5);
+  background-color: rgba(128,128,128,0.8);
   margin: 20px auto 20px auto;
   padding: 20px;
   border-radius: 8px;
 }
 
 .container2{
-  background-color: rgba(128,128,128,0.3);
+  background-color: rgba(128,128,128,0.8);
   margin: 20px auto 20px auto;
   padding: 20px;
   border-radius: 8px;
